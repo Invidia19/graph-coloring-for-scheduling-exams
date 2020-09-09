@@ -6,7 +6,7 @@ Aplikasi menerima input:
 4. checkbox exclude weekend
 
 contoh file input .csv dapat dilihat di file enc_input.csv
-
+output dalam bentuk .xlsx
 
 GUI Application of graph coloring algorithm for scheduling university's exams using python tkinter.
 It takes 4 inputs:
@@ -16,5 +16,6 @@ It takes 4 inputs:
 4. Checkbox exclude weekend
 
 example for the input file can be seen in file enc_input.csv
+output will be in format .xlsx
 
 
